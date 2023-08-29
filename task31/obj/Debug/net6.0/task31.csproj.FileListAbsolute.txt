@@ -1,0 +1,15 @@
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\bin\Debug\net6.0\task31.exe
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\bin\Debug\net6.0\task31.deps.json
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\bin\Debug\net6.0\task31.dll
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\bin\Debug\net6.0\task31.pdb
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.dll
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\refint\task31.dll
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.pdb
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+C:\Users\Oleg\Desktop\geek brains\C#Sem1\task31\obj\Debug\net6.0\ref\task31.dll
